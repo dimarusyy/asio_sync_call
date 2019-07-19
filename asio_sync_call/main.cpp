@@ -1,7 +1,7 @@
-#include <iostream>
-#include <gtest/gtest.h>
 
+#include <gtest/gtest.h>
 #include "asio_sync_call.hpp"
+
 
 struct asio_sync_call_fixture : ::testing::Test
 {
